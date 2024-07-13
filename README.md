@@ -1,4 +1,4 @@
-# DataIgnestion
+# Streamline
 
 ## Requirements
 
